@@ -1,0 +1,159 @@
+=== COMMUNITY 1 ===
+Nodes: 2700
+Edges: 1113013
+Density: 0.3055
+Top Movie: The Deer Hunter
+Theme: Classic, emotional dramas and critically acclaimed films
+Characteristics: Includes iconic films with strong emotional impact; many are award-winning or historically significant
+
+=== COMMUNITY 2 ===
+Nodes: 2320
+Edges: 670212
+Density: 0.2491
+Top Movie: California Suite
+Theme: Mid-century American comedies and dramas
+Characteristics: Features classic Hollywood comedies and stage adaptations; includes older American cinema
+
+=== COMMUNITY 3 ===
+Nodes: 2201
+Edges: 709991
+Density: 0.2933
+Top Movie: America Marching On
+Theme: Historical, educational, and lesser-known films
+Characteristics: High density of obscure titles; possibly propaganda or educational content
+
+=== COMMUNITY 4 ===
+Nodes: 13086
+Edges: 8236551
+Density: 0.0962
+Top Movie: Uncut Gems
+Theme: Modern indie, cult, and thriller films
+Characteristics: Largest community; includes contemporary thrillers, dark comedies, and cult favorites
+
+=== COMMUNITY 5 ===
+Nodes: 4789
+Edges: 1851660
+Density: 0.1615
+Top Movie: Shaun of the Dead
+Theme: Horror, sci-fi, and cult genre films
+Characteristics: Contains many horror and sci-fi films; includes modern cult hits
+
+=== COMMUNITY 6 ===
+Nodes: 3231
+Edges: 1124178
+Density: 0.2154
+Top Movie: Tale of Tales
+Theme: Art-house and surreal cinema
+Characteristics: Includes experimental, visually rich European films; often surreal or symbolic storytelling
+
+=== COMMUNITY 7 ===
+Nodes: 1605
+Edges: 439870
+Density: 0.3417
+Top Movie: The Grudge 3
+Theme: Horror and thriller films
+Characteristics: Dense cluster of horror movies; includes J-horror and slasher sub-genres
+
+=== COMMUNITY 8 ===
+Nodes: 2109
+Edges: 594928
+Density: 0.2676
+Top Movie: Destroyer (2018)
+Theme: Crime, action, and psychological thrillers
+Characteristics: Includes recent crime dramas and intense character-driven films from the 2010s–2020s
+
+=== COMMUNITY 9 ===
+Nodes: 662
+Edges: 218791
+Density: 1
+Top Movie: In Order of Disappearance
+Theme: Nordic noir and crime dramas
+Characteristics: Fully connected; tightly themed around Scandinavian crime and mystery films
+
+=== COMMUNITY 10 ===
+Nodes: 853
+Edges: 363378
+Density: 1
+Top Movie: A Most Violent Year
+Theme: Crime dramas and independent films
+Characteristics: Fully connected; consistent audience reception across titles
+
+=== COMMUNITY 11 ===
+Nodes: 1597
+Edges: 430562
+Density: 0.3379
+Top Movie: Term Life
+Theme: Romantic dramas, mysteries, and light-hearted comedies
+Characteristics: Uniform node degrees suggest shared appeal; mostly mid-tier dramas
+
+=== COMMUNITY 12 ===
+Nodes: 2021
+Edges: 609858
+Density: 0.2988
+Top Movie: The Human Comedy
+Theme: Classical and Golden Age Hollywood films
+Characteristics: Includes timeless classics and period pieces; moderate density
+
+=== COMMUNITY 13 ===
+Nodes: 1240
+Edges: 355154
+Density: 0.4623
+Top Movie: Moon
+Theme: Sci-fi and character-driven dramas
+Characteristics: High density; includes science fiction and introspective narratives
+
+=== COMMUNITY 14 ===
+Nodes: 825
+Edges: 255263
+Density: 0.751
+Top Movie: Airplane!
+Theme: Classic comedies, slapstick, satire
+Characteristics: Very high density; includes comedy legends and cult humor
+
+=== COMMUNITY 15 ===
+Nodes: 3231
+Edges: 1124178
+Density: 0.2154
+Top Movie: Carnival of Souls
+Theme: Psychological horror and avant-garde films
+Characteristics: Tight thematic cohesion; includes cult horror and experimental works
+
+=== COMMUNITY 16 ===
+Nodes: 731
+Edges: 266815
+Density: 1
+Top Movie: Anomalisa
+Theme: Animated features and adult-oriented animation
+Characteristics: Fully connected; includes emotionally rich animated films
+
+=== COMMUNITY 17 ===
+Nodes: 786
+Edges: 308505
+Density: 1
+Top Movie: Chinatown
+Theme: Neo-noir, crime, and mystery films
+Characteristics: Fully connected; contains noir classics and detective stories
+
+=== COMMUNITY 18 ===
+Nodes: 871
+Edges: 378885
+Density: 1
+Top Movie: Cries and Whispers
+Theme: Arthouse and emotionally intense international cinema
+Characteristics: Fully connected; includes deeply emotional and artistic works
+
+=== COMMUNITY 19 ===
+Nodes: 996
+Edges: 495510
+Density: 1
+Top Movie: Ararat 14 Views
+Theme: Experimental and philosophical films
+Characteristics: Fully connected; thematically unified around deep existential themes
+
+=== COMMUNITY 20 ===
+Nodes: 1403
+Edges: 403720
+Density: 0.4105
+Top Movie: Peculiar Penguins
+Theme: Family films, animated shorts, documentaries
+Characteristics: Moderate density; likely includes niche children’s and
